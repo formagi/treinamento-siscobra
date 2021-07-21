@@ -1,0 +1,49 @@
+# Ferramentas utilizadas no dia-a-dia
+
+- Discord
+- Notepad++
+    - Find (Ctrl+F)
+    - Replace (Ctrl+H)
+    - Regex
+        - início da linha
+        - fim da linha
+        - caracter coringa
+    - Plugin Compare
+    - Marcações (F2, Shift+F2)
+- VirtualBox
+    - Como instalar
+    - Configurar pool de redes
+    - Setup de nova VM
+    - Instalar Linux (Ubuntu, por favor)
+    - Como fazer um snapshot
+- KeepassXC
+    - O que é?!
+    - Como utilizar (gravar novas senhas e pesquisar)
+    - Como integrar esse trem com o navegador, para ser FELIZ!!!
+- TeamViewer / AnyDesk
+    - Configurar proxy quando necessário
+- Pacote <s>do inferno</s> de conexão SSH
+    - Putty
+        - O que é esse trem doido?
+        - Como conecta em um servidor
+        - Como salvar a conexão
+        - Como conectar com chave privada
+        - Tunnels (inferno na terra)
+    - WinSCP
+    - FileZilla
+    - Tabby
+- DBeaver
+- VPNs
+    - Sonic Wall - Dell (Finamax)
+    - Global Protect - Palo Alto (BRK Ambiental)
+    - OpenVPN GUI (Siscobra)
+- Call / Reuniões on-line
+    - Google Meet
+    - Microsoft Teams
+    - Zoom
+- Postman
+    - Solicitar apoio do mestre Guilherme
+- VSCode
+- Libre Office
+    - Writer
+    - Calc
